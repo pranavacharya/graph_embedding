@@ -12,12 +12,12 @@ Data is unsupervised -> use clustering to label the data -> use KNN on that
 2.  - [x] Remove edge with weight = 0   
       - [x] Check number of edges removed == number of zeros in the dataset  
 
-3.  - [ ] baseline model (base_model.py)  
+3.  - [x] baseline model (base_model.py)  
       - [x] Check for null values   
       - [x] Standardize data  
       - [x] PCA implementation  
-      - [ ] Run ML algorothim  
-      - [ ] Get the accuracy  
+      - [x] Run ML algorothim  
+      - [x] Get the accuracy  
 
 4.  - [x] Implement Random walk - edge weight is the probability of that path(or edge).  
       - [x] Create toy bipartite graph   
